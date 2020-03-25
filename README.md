@@ -1,4 +1,4 @@
-![](img/ciaexpdancawb_logotipo.svg =100x)
+![](img/ciaexpdancawb_logotipo.svg)
 
 # Companhia Experimental de Dança Waldete Brito
 
@@ -8,9 +8,9 @@ Projeto de Desenvolvimento do Site da Companhia Experimental de Dança Waldete B
 
 ### Redes Sociais:
 
-- [Instagram][https://www.instagram.com/experimental.danca/?hl=pt-br]
-- [Facebook][https://www.facebook.com/companhiaexperimentaldedanca.waldetebrito]
-- [Página de Desenvolvimento][https://hsnunes.github.io/experimentaldedanca]
+- [Instagram](https://www.instagram.com/experimental.danca/?hl=pt-br)
+- [Facebook](https://www.facebook.com/companhiaexperimentaldedanca.waldetebrito)
+- [Página de Desenvolvimento](https://hsnunes.github.io/experimentaldedanca)
 
 ### Tasks
 
@@ -20,5 +20,5 @@ Projeto de Desenvolvimento do Site da Companhia Experimental de Dança Waldete B
 
 #### Edit Logotipo:
 - [ ] Resizer imagem in readMe
-- [x] transform image jpge in svg
+- [X] transform image jpge in svg
 - [x] Vetorizar logotipo;
