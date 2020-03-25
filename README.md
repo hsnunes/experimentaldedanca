@@ -1,4 +1,4 @@
-![](img/ciaexpdancawb_logotipo.svg)
+![](img/ciaexpdancawb_logotipo.svg =100x)
 
 # Companhia Experimental de Dança Waldete Brito
 
@@ -16,5 +16,9 @@ Projeto de Desenvolvimento do Site da Companhia Experimental de Dança Waldete B
 
 - [ ] Website experimental
 ---
-#### Basics Steps
-- [ ] Vetorizar logotipo;
+### Basics Steps
+
+#### Edit Logotipo:
+- [ ] Resizer imagem in readMe
+- [x] transform image jpge in svg
+- [x] Vetorizar logotipo;
