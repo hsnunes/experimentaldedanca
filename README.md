@@ -1,3 +1,5 @@
+![](img/ciaexpdancawb_logotipo.jpeg)
+
 # Companhia Experimental de Dança Waldete Brito
 
 Projeto de Desenvolvimento do Site da Companhia Experimental de Dança Waldete Brito
@@ -6,10 +8,10 @@ Projeto de Desenvolvimento do Site da Companhia Experimental de Dança Waldete B
 
 ### Redes Sociais:
 
-- https://www.instagram.com/experimental.danca/?hl=pt-br
-- https://www.facebook.com/companhiaexperimentaldedanca.waldetebrito
-- Website
+- [Instagram][https://www.instagram.com/experimental.danca/?hl=pt-br]
+- [Facebook][https://www.facebook.com/companhiaexperimentaldedanca.waldetebrito]
+- [Página de Desenvolvimento][https://hsnunes.github.io/experimentaldedanca]
 
 # Tasks
 
-- [] Website experimental
+- [ ] Website experimental
