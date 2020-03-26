@@ -1,4 +1,7 @@
-![](img/ciaexpdancawb_logotipo.svg)
+
+<p align="center">
+  <img src="img/ciaexpdancawb_logotipo.svg"/>  
+</p>
 
 # Companhia Experimental de Dança Waldete Brito
 
